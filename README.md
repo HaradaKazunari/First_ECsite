@@ -16,7 +16,7 @@ shop_top.phpがトップページになります。
 「送信」ボタンを押すとorder_kakunin.phpへ  
 「注文確定」ボタンをクリックするとorder_kiroku.phpへ  
 
-shop_top → shohin  shop_top → cart  shop_top → input_rireki_kensaku  shop_top → order_yomu  
+shop_top → shohin , cart , input_rireki_kensaku , order_yomu  
 
 cart → input_jusho → order_kakunin → oreder_kiroku
 
